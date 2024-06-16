@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vladyslav Tsimbota</h1>
 <h3 align="center">A passionate developer from Ukraine</h3>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy_s.gif?cid=6c09b952hqd7ckm3v2nk9ev9prt7i7bn1mk9a40ucahfhwrx&ep=v1_internal_gif_by_id&rid=giphy_s.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://i.imgur.com/RiOZqqL.png">
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
